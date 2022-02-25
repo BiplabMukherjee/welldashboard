@@ -1,0 +1,626 @@
+{
+    "results": [
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.885268, y=53.37249563'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-01",
+                "WellName": "BIR-01",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1106",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1963-07-13T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1963-09-24T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1106:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.885268,
+                                53.372496
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.885268,
+                    "lat": 53.372496
+                },
+                "SpudDate": "1963-07-13T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:e0fd0c40a0114c3bb72aea02e3b50f07",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88619518, y=53.37366131'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-03",
+                "WellName": "BIR-03",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1109",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-03-05T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-04-06T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1109:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.886195,
+                                53.373661
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.886195,
+                    "lat": 53.373661
+                },
+                "SpudDate": "1975-03-05T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:0e28ff2264e24da5b19836e970cddf37",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88597613, y=53.37427512'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-02",
+                "WellName": "BIR-02",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1107",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-01-06T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-02-02T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1107:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.885976,
+                                53.374275
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.885976,
+                    "lat": 53.374275
+                },
+                "SpudDate": "1975-01-06T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:ebd1736478174c4994c4c16ba3f79257",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88641422, y=53.3730475'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-04",
+                "WellName": "BIR-04",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1110",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-04-07T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-05-10T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1110:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.886414,
+                                53.373047
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.886414,
+                    "lat": 53.373047
+                },
+                "SpudDate": "1975-04-07T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:72fd6d028a004f7e8d2c4b97e8644333",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88685228, y=53.37181988'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-06",
+                "WellName": "BIR-06",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1112",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-06-15T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-07-10T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1112:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.886852,
+                                53.37182
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.886852,
+                    "lat": 53.37182
+                },
+                "SpudDate": "1975-06-15T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:555d4863fa0a48bba038eace348245d8",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88663325, y=53.37243369'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-05",
+                "WellName": "BIR-05",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1111",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-05-02T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-06-14T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1111:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.886633,
+                                53.372434
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.886633,
+                    "lat": 53.372434
+                },
+                "SpudDate": "1975-05-02T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:675bc2f6cfa04af9a46a1a8b1bc6d76d",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88494973, y=53.37414412'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-11",
+                "WellName": "BIR-11",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1117",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-07-26T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-08-28T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1117:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.88495,
+                                53.374144
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.88495,
+                    "lat": 53.374144
+                },
+                "SpudDate": "1975-07-26T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:4e4e97b11fad47049a5df5626d4fef3b",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.8858106, y=53.37168009'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-07",
+                "WellName": "BIR-07",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1113",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-07-12T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-08-01T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1113:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.885811,
+                                53.37168
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.885811,
+                    "lat": 53.37168
+                },
+                "SpudDate": "1975-07-12T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:bd1c966a15ca4d15b626e260d6c9614c",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88538784, y=53.3729165'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-09",
+                "WellName": "BIR-09",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1115",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-10-06T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-11-11T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1115:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.885388,
+                                53.372917
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.885388,
+                    "lat": 53.372917
+                },
+                "SpudDate": "1975-10-06T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:ad965fb028894475b85acb799c335443",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        },
+        {
+            "data": {
+                "Data.IndividualTypeProperties.DataSourceOrganisationID": "srn:master-data/Organisation:TNO:",
+                "SpatialLocation": [
+                    "Coordinates=['x=6.88473066, y=53.37475792'], SpatialGeometryTypeID='srn:reference-data/SpatialGeometryType:Point:', VerticalCRSID='srn:reference-data/VerticalCRS:NAP:', HorizontalCRSID='srn:reference-data/HorizontalCRS:WGS84:', HeightAboveGroundLevelUOMID='srn:reference-data/UnitOfMeasure:M:'"
+                ],
+                "Data.IndividualTypeProperties.FacilityName": "BIR-12",
+                "WellName": "BIR-12",
+                "Data.IndividualTypeProperties.CountryID": "srn:master-data/GeopoliticalEntity:Netherlands:",
+                "UWI": "1118",
+                "Data.IndividualTypeProperties.OperatingEnvironmentID": "srn:reference-data/WellOperatingEnvironment:ON:",
+                "Data.IndividualTypeProperties.StateProvinceID": "srn:master-data/GeopoliticalEntity:Groningen:",
+                "FacilityEvent": [
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:SPUD:', EffectiveDateTime='1975-08-29T00:00:00'",
+                    "FacilityEventTypeID='srn:reference-data/FacilityEventType:DRILLING FINISH:', EffectiveDateTime='1975-10-01T00:00:00'"
+                ],
+                "ResourceID": "srn:master-data/Well:1118:",
+                "Data.IndividualTypeProperties.DefaultVerticalMeasurementID": "Rotary Table",
+                "x-geojson": {
+                    "geometries": [
+                        {
+                            "coordinates": [
+                                6.884731,
+                                53.374758
+                            ],
+                            "type": "point"
+                        }
+                    ],
+                    "type": "geometrycollection"
+                },
+                "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+                "ResourceTypeID": "srn:type:master-data/Well:",
+                "GeoLocation": {
+                    "lon": 6.884731,
+                    "lat": 53.374758
+                },
+                "SpudDate": "1975-08-29T00:00:00+0000",
+                "Data.IndividualTypeProperties.QuadrantID": "srn:master-data/GeopoliticalEntity:G:"
+            },
+            "kind": "opendes:osdu:well-master:0.2.1",
+            "namespace": "opendes:osdu",
+            "legal": {
+                "legaltags": [
+                    "opendes-public-usa-dataset-1"
+                ],
+                "otherRelevantDataCountries": [
+                    "US"
+                ],
+                "status": "compliant"
+            },
+            "id": "opendes:doc:4c8f4066459042b7bcc91007d0d47ee4",
+            "acl": {
+                "viewers": [
+                    "data.default.viewer@opendes.contoso.com"
+                ],
+                "owners": [
+                    "data.default.owner@opendes.contoso.com"
+                ]
+            },
+            "type": "well-master",
+            "version": 1587063958612460
+        }
+    ],
+    "aggregations": null,
+    "totalCount": 37
+}
